@@ -1,0 +1,14 @@
+# n8n runtime logs
+n8n.log
+n8n.err
+
+# Local n8n data / config
+.n8n/
+
+# Temporary files
+*.tmp
+*.bak
+nodes.json
+scheduleTrigger.json
+httpRequest.json
+workflow-test.json
