@@ -16,6 +16,20 @@ To use this project yourself:
 4.  Open the "Discord Webhook" node in n8n and replace the URL with your own webhook URL.
 5.  Activate the workflow!
 
+## 📸 Screenshots
+
+### Workflow Canvas
+![Workflow Canvas](Project%20Screenshort/workflow-canvas.png)
+
+### RSS Feed Output
+![RSS Feed Output](Project%20Screenshort/rss-output.png)
+
+### Format Digest Node
+![Format Digest Node](Project%20Screenshort/format-digest.png)
+
+### Discord Message
+![Discord Message](Project%20Screenshort/discord-message.png)
+
 ## 🧪 Testing
 Run the workflow manually in n8n to verify the Discord message is delivered.
 
